@@ -1,0 +1,16 @@
+TITLE
+TEST GIT FILE
+
+
+this is just a sample file nothing to see here 
+
+
+
+info section
+this is a sample info section to help me perfect braching
+so what info can you give about git and github? 
+
+
+
+ahahahahahhaa
+
