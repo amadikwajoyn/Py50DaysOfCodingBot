@@ -1,0 +1,4 @@
+This is a file that discribes me'
+My Name is Desmond, I am new to git
+A newbie in Python and a UI UX Designer
+For now Thats All...
